@@ -46,3 +46,5 @@ Identify the top tickers that show the highest correlation between news sentimen
 The analysis reveals distinct patterns of how news sentiment influences stock price performance.
 Certain stock tickers show strong correlations with sentiment scores, indicating potential opportunities for sentiment-based trading strategies.
 
+# Contributing
+Contributions are welcome! If you have suggestions for improvements or additional features, feel free to submit a pull request or open an issue.
