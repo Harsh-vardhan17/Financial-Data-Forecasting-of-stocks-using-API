@@ -1,1 +1,1 @@
-#********Stock Market Sentiment Analysis********
+# Stock Market Sentiment Analysis
